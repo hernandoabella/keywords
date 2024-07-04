@@ -42,8 +42,9 @@ To start the development server, run:
 npm run dev
 # or
 yarn dev
+```
 
-### Contribution
+## Contribution
 Contributions are welcome! If you would like to contribute, please follow these steps:
 
 1. Fork the repository.
@@ -52,8 +53,8 @@ Contributions are welcome! If you would like to contribute, please follow these 
 4. Push the changes to your repository (git push origin feature/new-feature).
 5. Open a Pull Request.
 
-# License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-# Contact
+## Contact
 If you have any questions or suggestions, please contact hernandoabella@gmail.com
