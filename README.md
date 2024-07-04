@@ -2,13 +2,16 @@
 Best Code Keyword Ref Resource 
 
 ## Technologies Used
-
 - **Next.js**: A React framework for optimized web applications with hybrid static and server-side rendering.
 - **Tailwind CSS**: A utility-first CSS framework for rapid and efficient design.
 - **TypeScript**: A superset of JavaScript that adds static typing, improving code robustness.
 
-## Features
+## Supported languages:
+- JavaScript
+- Python
+- Java
 
+## Features
 - Programming language selection.
 - Display of keywords with title, description, and code example.
 - Button to change to a random keyword within the same language.
