@@ -2,7 +2,7 @@
 
 ## Supported languages:
 - [Python](./python.md)
-- JavaScript
-- Java
+- [JavaScript](./javascript.md)
+- [Java](./java.md)
 
 Made with 💕 by your coding friend *@hernandoabella*
