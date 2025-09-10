@@ -1,7 +1,7 @@
-# Keyw0rds
+# Keywords
 
 ## Supported languages:
-- Python
+- [Python](./python.md)
 - JavaScript
 - Java
 
