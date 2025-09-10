@@ -5,4 +5,4 @@
 - [JavaScript](./javascript.md)
 - [Java](./java.md)
 
-Made with 💕 by your coding friend *@hernandoabella*
+Made with 💕 by your coding friend **@hernandoabella**
